@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hero{
+    height: 100vh;
+    background-image: url('./images/model-3.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.uppersection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4rem;
+    
+}
+.lowersection{
+    margin-bottom: 3rem;
+}
+h2{
+    font-size: 40px;
+}
+button{
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    margin-left: 1rem;
+    border-radius: 20px;
+    }
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+        margin-left: 1rem;
+
+
+    }
+.hero1{
+    height: 100vh;
+    background-image: url('./images/model-y.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+.hero2{
+    height: 100vh;
+    background-image: url('./images/model-3.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+}
+.hero3{
+    height: 100vh;
+    background-image: url('./images/model-x.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+}
+.hero4{
+    height: 100vh;
+    background-image: url('./images/solar-roof.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+}
+.hero5{
+    height: 100vh;
+    background-image: url('./images/solar-panel.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+}
